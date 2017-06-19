@@ -1,0 +1,162 @@
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csc.exe
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csc.exe.config
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csc.rsp
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csi.exe
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csi.exe.config
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csi.rsp
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.AppContext.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Collections.Immutable.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Console.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Diagnostics.Process.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.Compression.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.FileSystem.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.Pipes.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Reflection.Metadata.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.AccessControl.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Claims.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Threading.Thread.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.ValueTuple.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Xml.XPath.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\vbc.exe
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\vbc.exe.config
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\vbc.rsp
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\VBCSCompiler.exe
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\VBCSCompiler.exe.config
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\FlixOne.BookStore.ProductService.dll.config
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\FlixOne.BookStore.ProductService.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\FlixOne.BookStore.ProductService.pdb
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\EntityFramework.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\EntityFramework.SqlServer.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Microsoft.Web.Infrastructure.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Newtonsoft.Json.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Swashbuckle.Core.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Net.Http.Formatting.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Core.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Interfaces.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Linq.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.PlatformServices.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Windows.Threading.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Web.Http.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Web.Http.WebHost.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\WebActivatorEx.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\EntityFramework.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\EntityFramework.SqlServer.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Newtonsoft.Json.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Core.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Interfaces.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Linq.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.PlatformServices.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Windows.Threading.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Net.Http.Formatting.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Web.Http.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Web.Http.WebHost.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\obj\Debug\FlixOne.BookStore.ProductService.csprojResolveAssemblyReference.cache
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\obj\Debug\FlixOne.BookStore.ProductService.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\obj\Debug\FlixOne.BookStore.ProductService.pdb
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csc.exe
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csc.exe.config
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csc.rsp
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csi.exe
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csi.exe.config
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\csi.rsp
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.AppContext.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Collections.Immutable.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Console.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Diagnostics.Process.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.Compression.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.FileSystem.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.IO.Pipes.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Reflection.Metadata.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.AccessControl.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Claims.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Security.Principal.Windows.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Threading.Thread.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.ValueTuple.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Xml.XPath.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\vbc.exe
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\vbc.exe.config
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\vbc.rsp
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\VBCSCompiler.exe
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\roslyn\VBCSCompiler.exe.config
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\FlixOne.BookStore.ProductService.dll.config
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\FlixOne.BookStore.ProductService.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\FlixOne.BookStore.ProductService.pdb
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\EntityFramework.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\EntityFramework.SqlServer.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Microsoft.Web.Infrastructure.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Newtonsoft.Json.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Swashbuckle.Core.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Net.Http.Formatting.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Core.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Interfaces.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Linq.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.PlatformServices.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Windows.Threading.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Web.Http.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Web.Http.WebHost.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\WebActivatorEx.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\EntityFramework.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\EntityFramework.SqlServer.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\Newtonsoft.Json.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Core.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Interfaces.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Linq.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.PlatformServices.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Reactive.Windows.Threading.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Net.Http.Formatting.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Web.Http.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\bin\System.Web.Http.WebHost.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\obj\Debug\FlixOne.BookStore.ProductService.csprojResolveAssemblyReference.cache
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\obj\Debug\FlixOne.BookStore.ProductService.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\FlixOne.BookStore.ProductService\FlixOne.BookStore.ProductService\obj\Debug\FlixOne.BookStore.ProductService.pdb

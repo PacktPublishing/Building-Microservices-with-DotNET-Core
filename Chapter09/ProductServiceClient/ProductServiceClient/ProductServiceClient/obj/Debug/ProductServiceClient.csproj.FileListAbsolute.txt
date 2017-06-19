@@ -1,0 +1,44 @@
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\ProductServiceClient.exe.config
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\ProductServiceClient.exe
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\ProductServiceClient.pdb
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\Newtonsoft.Json.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Net.Http.Formatting.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Core.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Interfaces.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Linq.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.PlatformServices.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Windows.Threading.dll
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\Newtonsoft.Json.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Net.Http.Formatting.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Core.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Interfaces.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Linq.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.PlatformServices.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Windows.Threading.xml
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\obj\Debug\ProductServiceClient.csprojResolveAssemblyReference.cache
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\obj\Debug\ProductServiceClient.exe
+F:\Final\microservices\bookcollaborators-microservices-117b9b401c80\Source Code\Chapter-09\ProductServiceClient\ProductServiceClient\ProductServiceClient\obj\Debug\ProductServiceClient.pdb
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\ProductServiceClient.exe.config
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\ProductServiceClient.exe
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\ProductServiceClient.pdb
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\Newtonsoft.Json.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Core.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Interfaces.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Linq.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.PlatformServices.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\Newtonsoft.Json.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Core.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Interfaces.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Linq.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.PlatformServices.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\obj\Debug\ProductServiceClient.csprojResolveAssemblyReference.cache
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\obj\Debug\ProductServiceClient.exe
+D:\--TEMP2\Gaurav Fixed Chapter9  Final\ProductServiceClient\ProductServiceClient\ProductServiceClient\obj\Debug\ProductServiceClient.pdb
