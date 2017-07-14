@@ -10,8 +10,8 @@ namespace FlixOne.BookStore.Controllers
 {
     public class HomeController : Controller
     {
-        private const string ProductBaseUri = "http://localhost:18959"; //put this in config
-        private const string OrderBaseUri = "http://localhost:41709"; //put this in config
+        private const string ProductBaseUri = "http://localhost:51462"; //put this in config
+        private const string OrderBaseUri = "http://localhost:51463"; //put this in config
 
         public IActionResult Index()
         {
@@ -48,7 +48,7 @@ namespace FlixOne.BookStore.Controllers
                     new MediaTypeWithQualityHeaderValue("application/json");
                 client.DefaultRequestHeaders.Accept.Add(contentType);
                 var response = client.GetAsync
-                    ("/api/product/ListProduct").Result;
+                    ("/api/product/productList").Result;
                 var stringData = response.Content.ReadAsStringAsync().Result;
                 var data = JsonConvert.DeserializeObject
                     <List<ProductViewModel>>(stringData);

@@ -19,13 +19,6 @@ namespace FlixOne.BookStore.ProductService.Controllers
         }
 
         [HttpGet]
-        [Route("help")]
-        public IActionResult Index()
-        {
-            return new RedirectResult("~/swagger/ui");
-        }
-
-        [HttpGet]
         [Route("productlist")]
         public async Task<IEnumerable<ProductViewModel>> ListProduct()
         {
@@ -33,7 +26,7 @@ namespace FlixOne.BookStore.ProductService.Controllers
             return productModel.Select(ToProductViewModel).ToList();
         }
         [HttpGet]
-        [Route("productlist/{id}")]
+        [Route("product/{id}")]
         public async Task<ProductViewModel> Get(string id)
         {
             var order = await _productRepository.GetByAsync(new Guid(id));

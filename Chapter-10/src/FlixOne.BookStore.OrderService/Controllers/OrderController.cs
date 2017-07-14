@@ -21,13 +21,7 @@ namespace FlixOne.BookStore.OrderService.Controllers
             _productClient = productClient;
         }
 
-        [HttpGet]
-        [Route("help")]
-        public IActionResult Index()
-        {
-            return new RedirectResult("~/swagger/ui");
-        }
-
+      
         // GET api/values
         [HttpGet]
         [Route("orderlist")]
@@ -40,7 +34,7 @@ namespace FlixOne.BookStore.OrderService.Controllers
       
         // GET api/values/5
         [HttpGet]
-        [Route("orderlist/{id}")]
+        [Route("order/{id}")]
         public async Task<IEnumerable<OrderViewModel>> Get(string id)
         {
             var productId = new Guid(id);
@@ -51,18 +45,21 @@ namespace FlixOne.BookStore.OrderService.Controllers
 
         // POST api/values
         [HttpPost]
+        [Route("addproduct")]
         public void Post([FromBody] string value)
         {
         }
 
         // PUT api/values/5
-        [HttpPut("{id}")]
+        [HttpPut]
+        [Route("updateproduct/{id}")]
         public void Put(int id, [FromBody] string value)
         {
         }
 
         // DELETE api/values/5
-        [HttpDelete("{id}")]
+        [HttpDelete]
+        [Route("deleteproduct/{id}")]
         public void Delete(int id)
         {
         }

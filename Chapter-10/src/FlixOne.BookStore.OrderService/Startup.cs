@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using Swashbuckle.Swagger.Model;
+using Swashbuckle.AspNetCore.Swagger;
 
 namespace FlixOne.BookStore.OrderService
 {
@@ -37,18 +37,9 @@ namespace FlixOne.BookStore.OrderService
             services.AddDbContext<OrderContext>(
                 o => o.UseSqlServer(Configuration.GetConnectionString("OrderConnection")));
 
-            services.AddSwaggerGen();
-            services.ConfigureSwaggerGen(options =>
+            services.AddSwaggerGen(swagger =>
             {
-                //options.OperationFilter<AuthorizationHeaderParameterOperationFilter>();
-                options.DescribeAllEnumsAsStrings();
-                options.SingleApiVersion(new Info
-                {
-                    Title = "Ordering HTTP API",
-                    //Version = "v1",
-                    Description = "The Ordering Service HTTP API",
-                    TermsOfService = "Terms Of Service"
-                });
+                swagger.SwaggerDoc("v1", new Info { Title = "Order APIs", Version = "v1" });
             });
 
             services.AddCors(options =>
@@ -73,8 +64,12 @@ namespace FlixOne.BookStore.OrderService
             loggerFactory.AddDebug();
 
             app.UseMvc();
-            app.UseSwaggerUi();
 
+            // Enable middleware to serve generated Swagger as a JSON endpoint.
+            app.UseSwagger();
+
+            // Enable middleware to serve swagger-ui (HTML, JS, CSS etc.), specifying the Swagger JSON endpoint.
+            app.UseSwaggerUI(options => { options.SwaggerEndpoint("/swagger/v1/swagger.json", "Order API V1"); });
         }
     }
 }
