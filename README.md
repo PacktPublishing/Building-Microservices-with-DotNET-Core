@@ -8,6 +8,11 @@ In any case, microservices architecture has critical advantages, particularly wi
 However, there is no clear practical advice on how to implement microservices in the Microsoft ecosystem and especially with taking advantage of Azure and the .NET Core framework.
 
 This book tries to fill that void. It explores the concepts, challenges, and strengths of planning, constructing, and operating microservices architectures built with .NET Core. This book discusses all cross-cutting concerns, along with the microservices design. It also highlights the more important aspects to consider while building and operating microservices through practical how tos and best practices for security, monitoring, and scalability.
+
+## Link to the author's website
+Here is the link for the author's website:
+[http://microservicesfor.net/](http://microservicesfor.net/)
+
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
